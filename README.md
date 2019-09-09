@@ -7,10 +7,13 @@ Enjoy coding!
 
 # perm.java
 Print out the permutation of A-Z.    
-eg. input: 1 output: A. 
-    input: 2 output: AB  
-                     BA. 
-    etc.  
+example. 
+input: 1 output:   
+A.  
+input: 2 output:  
+AB.   
+BA.  
+etc.  
 
 
 # leastFactorial.java
