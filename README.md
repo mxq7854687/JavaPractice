@@ -1,7 +1,7 @@
 # JavaPractice
 
 Start practising my Java!  
-Welcome to sharing your opinion on my work!  
+Welcome to share your opinions on my work!  
 Enjoy coding!
 
 
