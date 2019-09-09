@@ -11,3 +11,10 @@ eg. input: 1 output: A
     input: 2 output: AB
                      BA
     etc.
+
+
+# leastFactorial.java
+For n = 17, the output should be
+leastFactorial(n) = 24.
+
+17 < 24 = 4! = 1 * 2 * 3 * 4, while 3! = 1 * 2 * 3 = 6 < 17).
