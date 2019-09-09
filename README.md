@@ -1,6 +1,6 @@
 # JavaPractice
 
-Start practising my Java!
+Start practising my Java!\n
 Welcome to sharing your opinion on my work!
 Enjoy coding!
 
